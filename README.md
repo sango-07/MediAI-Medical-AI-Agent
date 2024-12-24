@@ -24,7 +24,7 @@ The Medical AI Assistant is a Streamlit-based application designed to assist hea
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sango-07/medical-ai-assistant.git
+    git clone https://github.com/sango-07/MediAI-Medical-AI-Agent.git
     cd medical-ai-assistant
     ```
 
