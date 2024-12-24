@@ -66,17 +66,6 @@ The Medical AI Assistant is a Streamlit-based application designed to assist hea
     - Comprehensive treatment recommendations.
 5. Download the generated report as a Word document.
 
-## Screenshots
-
-### Home Page
-![Home Page](./assets/home_page.png)
-
-### Patient Information
-![Patient Info](./assets/patient_info.png)
-
-### Results
-![Results](./assets/results.png)
-
 ## File Structure
 
 ```
